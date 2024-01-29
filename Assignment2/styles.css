@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 10px;
+    height: 100vh;
+    background-image: url("https://www.nbcstore.com/cdn/shop/products/office_paperlogo_longsleeve_tshirt_navy_rollover_533x.jpg?v=1572164329");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#Welcome {
+    color: white;
+    text-shadow: 2px 2px black;
+    margin-top: 10px;
+    font-size: 35px;
+}
+
+#gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.preview {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+#mainimage {
+    margin-top: 20px;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
+button {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 20px;
+    background-color: hsl(200, 100%, 50%);
+}
+button:hover {
+    background-color: hsl(200, 100%, 70%);
+}
+
+#tools {
+    display: flex;
+    align-items: center;
+    margin-left: 29%;
+}
+
+.info {
+    color: white;
+    text-shadow: 2px 2px black;
+    margin-top: 20px;
+}

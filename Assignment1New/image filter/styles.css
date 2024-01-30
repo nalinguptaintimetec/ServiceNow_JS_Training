@@ -1,0 +1,50 @@
+body {
+    color: gray;
+    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px hsl(0, 0%, 70%);
+    margin-top: 10px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.characterContainer{
+    /* width: 100px; */
+    display: flex;
+    flex-direction: column;
+    object-fit: contain;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.characterImage{
+    width: 50vw;
+    object-fit: cover;
+
+}
+
+#animeImages{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-direction: column;
+
+}
+
+#tags{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-size: 15px;
+    font-weight: 600;
+    border: solid 1px;
+    color: hsl(240, 100%, 20%);
+}

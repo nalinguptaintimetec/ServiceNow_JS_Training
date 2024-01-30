@@ -1,0 +1,49 @@
+{
+    "data" : [
+        {
+            "imageURL" : "https://miro.medium.com/v2/resize:fit:1400/1*rKl56ixsC55cMAsO2aQhGQ@2x.jpeg",
+            "name" : "Gojo Satoru",
+            "anime" : "Jujutsu Kaisen"
+        },
+        {
+            "imageURL" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/11/Jujutsu-Kaisen-Itadori.jpg",
+            "name" : "Itadori Yuji",
+            "anime" : "Jujutsu Kaisen"
+        },
+        {
+            "imageURL" : "https://storage.googleapis.com/cdn.vcgamers.com/news/wp-content/uploads/2023/10/Screenshot-1447.png",
+            "name" : "Fushiguro Megimu",
+            "anime" : "Jujutsu Kaisen"
+        },
+        {
+            "imageURL" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/05/madara-uchiha-naruto-featured.jpg",
+            "name" : "Madara Uchiha",
+            "anime" : "Naruto"
+        },
+        {
+            "imageURL" : "https://preview.redd.it/hq1m30rh14171.jpg?auto=webp&s=f95c5c949eea9843af22e68cb23ea569b35747d2",
+            "name" : "Kakashi Hatake",
+            "anime" : "Naruto"
+        },
+        {
+            "imageURL" : "https://i.pinimg.com/736x/4e/00/9a/4e009ad7cf2c339c46ef5d1644798755.jpg",
+            "name" : "Itachi Uchiha",
+            "anime" : "Naruto"
+        },
+        {
+            "imageURL" : "https://lh3.googleusercontent.com/Ryg5ih-fOWbpEGDpbJYJz5RTq3_28Tvo2h3JQRCdiz16lw5ghitDMN6hcWA57g0d6_8VOqQYcCemRBOfZGQA64ZKkFOn71zuF1LDsXwCh4ywF-_z6VqxbBqmbQvK_-PWfZcztxDd1WDTEEUHX6GdP60",
+            "name" : "Luffy",
+            "anime" : "One Piece"
+        },
+        {
+            "imageURL" : "https://butwhytho.net/wp-content/uploads/2023/08/Roronoa-Zoro-But-Why-Tho-3.jpg",
+            "name" : "Zoro",
+            "anime" : "One Piece"
+        },
+        {
+            "imageURL" : "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/02/Sanji-One-Piece.jpg",
+            "name" : "Sanji",
+            "anime" : "One Piece"
+        }
+    ]
+}

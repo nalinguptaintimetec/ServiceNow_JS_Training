@@ -1,0 +1,80 @@
+{
+    "data" : [
+        {
+            "id": 1,
+           "week" : "Week 1: Basics of JavaScript",
+           "content" : [
+                        "Basic HTML and CSS",
+                        "How does Javascript work?",
+                        "JS Runtime Environment",
+                        "JS Engine",
+                        "Basic syntax & comments",
+                        "Declarations",
+                        "Variable scope",
+                        "Data structures and types",
+                        "Literals",
+                        "Expressions and operators",
+                        "Loops and iteration",
+                        "Window and this",
+                        "Functions",
+                        "Popups",
+                        "Popup Boxes",
+                        "DOM Manipulation",
+                        "JavaScript Events",
+                        "Numbers and Dates",
+                        "Objects"]
+        },
+        {
+            "id": 2,
+
+            "week" : "Week 2: Basics of JavaScript (contd.)",
+            "content" : [
+                    "Callback fn",
+                    "Promises",
+                    "Async/Await",
+                    "Hoisting",
+                    "Closures",
+                    "Regular Expressions",
+                    "Strict mode",
+                    "JavaScript typed arrays",
+                    "Debugging"]
+        },
+        {
+            "id": 3,
+
+            "week" : "Week 3: Advanced JS & Javascript ES5 & ES6",
+            "content" : [
+                    "Event Loop",
+                    "map, filter, reduce",
+                    "scope chain, scope & lexical env",
+                    "Blocks in js",
+                    "Javascript ES5 features",
+                    "Javascript ES6 features",
+                    "Javascript ES5 vs ES6"
+                    ]
+        },
+        {
+            "id": 4,
+
+            "week" : "Week 4: Typescript and ES6",
+            "content" : [
+                "Type Basics",
+                "Numbers & Booleans",
+                "Assigning Types Explicitly",
+                "Arrays and Types",
+                "Tuples",
+                "Enums",
+                "The 'Any' Type",
+                "Understanding the created JavaScript Code",
+                "Using Types in Functions (Arguments & Return Values)",
+                "Functions as Types",
+                "Objects and Types",
+                "Creating custom Types with Type Aliases",
+                "Allowing multiple Types with Union Types",
+                "Checking for Types during Runtime",
+                "The 'never' Type (added with TypeScript 2.0)",
+                "Nullable Types (added with TypeScript 2.0)"
+                ]
+        }
+    ]
+}
